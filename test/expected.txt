@@ -271,7 +271,7 @@
 || Enter command: || [Command entered:  sort]
 || 	1. Betsy Choo  Phone Number: 222222  Email: benchoo@nus.edu.sg
 || 	2. Dickson Ee  Phone Number: 444444  Email: dickson@nus.edu.sg
-||
+|| 
 || 2 persons found!
 || ===================================================
 || Enter command: || [Command entered:  clear]
